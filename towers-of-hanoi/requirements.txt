@@ -1,0 +1,5 @@
+Hanoi
+
+# This file lists the dependencies required for the project.
+matplotlib
+pytest
